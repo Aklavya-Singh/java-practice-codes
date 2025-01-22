@@ -1,5 +1,7 @@
 import java.util.*;
 
+//code to detect if the number that was given by the user is odd or even
+
 public class random {
     
     public static void main(String args[])

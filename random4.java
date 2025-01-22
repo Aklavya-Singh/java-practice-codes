@@ -1,12 +1,10 @@
 import java.util.Scanner;
 
-//code to print nth number of natural numbersf
-
-public class random3 
+public class random4 
 {
     public static void main(String args[])
     {
-        int a;
+        int a, sum = 0;
         Scanner n = new Scanner(System.in);
 
         System.out.println("Enter the number of nth terms needed: ");
@@ -14,12 +12,9 @@ public class random3
 
         for(int i = 1; i<=a; i++)
         {
-            System.out.println(i);
+            sum = sum +i;
         }
+        System.out.println("Sum is: " + sum);
         n.close();
-
-
     }
-    
-
 }

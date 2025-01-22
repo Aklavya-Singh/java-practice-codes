@@ -1,5 +1,7 @@
 import java.util.*;
 
+//code to add two user given numbers
+
 public class random2
 {
     public static void main(String args[])
