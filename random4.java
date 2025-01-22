@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//add all the nth numbers together.
+
 public class random4 
 {
     public static void main(String args[])
